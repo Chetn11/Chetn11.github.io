@@ -19,7 +19,7 @@ const handleResumeClick = () => {
 
 const Home = () => {
   return (
-    <div id="home" name="home" className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800">
+    <div id="home" name="home" className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 ">
 
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
 
@@ -39,8 +39,8 @@ const Home = () => {
       </a>
       </div>
      </div>
-     <div className="w-2/3 h-auto">
-      <img src={HeroImage} alt="HeroImage" className="home-img rounded-full mx-auto w-2/4  md:w-full"/>
+     <div className="w-2/3 h-auto ">
+      <img src={HeroImage} alt="HeroImage" className="home-img rounded-full mx-auto w-2/4  md:w-full  ring ring-blue-400 hover:ring-blue-600"/>
      </div>
     </div>
     </div>
