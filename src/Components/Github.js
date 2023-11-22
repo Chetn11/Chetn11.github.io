@@ -10,6 +10,7 @@ function Github() {
     <div className="mb-20">
     <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>GitHub Stats</p>
     </div>
+    
     <GitHubCalendar username="Chetn11" className="react-activity-calendar m-auto"/>
        {/* <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chetn11&theme=dark" alt="ChetanPatil" className="github-streak-stats m-auto pt-5"/></a> */}
        

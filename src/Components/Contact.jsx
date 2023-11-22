@@ -10,7 +10,7 @@ function Contact() {
             <p className='pt-6 text-center' id="contact-email">Email : cnpatil00@gmail.com</p>
             <p className=' text-center' id="contact-phone">Phone : 7710991461</p>
             <p className='text-center py-4'>-- OR --</p>
-            <p className='pt-4 text-center'>Submit the form below to grt in touch with me</p>
+            <p className='pt-4 text-center'>Submit the form below to get in touch with me</p>
         </div>
 
         <div className='flex justify-center items-center'>
