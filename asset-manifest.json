@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86785ad0.css",
+    "main.js": "/static/js/main.a3036b02.js",
+    "static/media/Bewakoof.PNG": "/static/media/Bewakoof.2398cc6ed2d3ce96c9aa.PNG",
+    "static/media/Auto_part.PNG": "/static/media/Auto_part.8c3efa3daaaa3444899c.PNG",
+    "static/media/sopa.PNG": "/static/media/sopa.3d34e9736c260e9c33e3.PNG",
+    "static/media/heroImage.png": "/static/media/heroImage.5a3b0f138461e41c77f8.png",
+    "static/media/Resume.pdf": "/static/media/Resume.b5a6a039f016444f838c.pdf",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mongodb.png": "/static/media/mongodb.495096f3c71200bb00ac.png",
+    "static/media/stopwatch.PNG": "/static/media/stopwatch.cb183dc531d455fca840.PNG",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.86785ad0.css.map": "/static/css/main.86785ad0.css.map",
+    "main.a3036b02.js.map": "/static/js/main.a3036b02.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86785ad0.css",
+    "static/js/main.a3036b02.js"
+  ]
+}
