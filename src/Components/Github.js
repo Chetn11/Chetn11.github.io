@@ -5,12 +5,12 @@ import React from 'react'
 // github stats
 function Github() {
   return (
-    <div id="github" name="github" className=' w-full md:h-fit bg-gradient-to-b  from-black to-gray-800  '>
+    <div id="github" name="github" className=' w-full  bg-gradient-to-b  from-black to-gray-800 pt-20 '>
     <div className='max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white'>
-    <div className="m-auto">
-    <GitHubCalendar username="Chetn11" className="react-activity-calendar w-full m-auto"/>
+    <div className="mb-20">
+    <p className='text-4xl font-bold border-b-4 border-gray-500 p-2 inline'>GitHub Stats</p>
     </div>
-       
+    <GitHubCalendar username="Chetn11" className="react-activity-calendar m-auto"/>
        {/* <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Chetn11&theme=dark" alt="ChetanPatil" className="github-streak-stats m-auto pt-5"/></a> */}
        
        <br/>

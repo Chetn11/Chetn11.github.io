@@ -61,8 +61,8 @@ function NavBar() {
         <li className="nav-link contact  text-xs px-4 cursor-pointer capitalize font-normal text-gray-500 hover:scale-105 duration-200">Contact</li> */}
       </ul>
       <button onClick={handleResumeClick} id="resume-button-1" className="nav-link resume  group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer hover:scale-105 duration-300">Resume</button>
-      <div onClick={()=>setNav(!nav)} className='cursor-pointer pr-4 z-10 text-gray-500 md:hidden'>
-        {nav?<FaTimes size={20}/>:<FaBars size={20}/>}
+      <div onClick={()=>setNav(!nav)} className='cursor-pointer pr-4 z-10 text-gray-500 sm:hidden'>
+        {nav?<FaTimes size={30}/>:<FaBars size={30}/>}
       </div>
       {nav && (
         <ul className='nav-link home flex flex-col justify-center items-center absolute top-0 left-0 w-full h-screen bg-gradient-to-b from-black to-gray-800 text-gray-500'>

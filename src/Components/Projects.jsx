@@ -13,7 +13,7 @@ function Projects() {
     );
   }
   return (
-    <div name="projects" id='projects' className='bg-gradient-to-b from-gray-800 to-black w-full text-white md:h-fit'>
+    <div name="projects" id='projects' className='bg-gradient-to-b from-gray-800 to-black w-full h-fit  text-white pb-14'>
       <div className='max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full'>
         <div className='pb-8'>
             <p className='text-4xl font-bold inline border-b-4 border-gray-500'>Projects</p>
@@ -25,7 +25,7 @@ function Projects() {
 
         {/* project-1 */}
             <div className='project-card shadow-md shadow-gray-600 rounded-lg duration-200 hover:scale-105 '>
-                <img src={bewakoof} alt='' className='rounded-md duration-200 hover:scale-105 '/>
+                <img src={bewakoof} alt='' className='rounded-md duration-200 hover:scale-105 w-full h-auto'/>
                 <div className='flex items-center justify-center'>
                     <button className='project-deployed-link w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'
                     onClick={()=>handelUrl("https://snazzy-bublanina-52c88a.netlify.app/index.html")}
@@ -115,6 +115,8 @@ function Projects() {
 
                 </ul>
             </div>
+
+
 
             
         </div>
