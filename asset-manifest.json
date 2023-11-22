@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.86785ad0.css",
-    "main.js": "/static/js/main.1849107a.js",
+    "main.css": "/static/css/main.22e64323.css",
+    "main.js": "/static/js/main.41668983.js",
     "static/media/Bewakoof.PNG": "/static/media/Bewakoof.2398cc6ed2d3ce96c9aa.PNG",
     "static/media/Auto_part.PNG": "/static/media/Auto_part.8c3efa3daaaa3444899c.PNG",
     "static/media/sopa.PNG": "/static/media/sopa.3d34e9736c260e9c33e3.PNG",
@@ -16,11 +16,11 @@
     "static/media/stopwatch.PNG": "/static/media/stopwatch.cb183dc531d455fca840.PNG",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.86785ad0.css.map": "/static/css/main.86785ad0.css.map",
-    "main.1849107a.js.map": "/static/js/main.1849107a.js.map"
+    "main.22e64323.css.map": "/static/css/main.22e64323.css.map",
+    "main.41668983.js.map": "/static/js/main.41668983.js.map"
   },
   "entrypoints": [
-    "static/css/main.86785ad0.css",
-    "static/js/main.1849107a.js"
+    "static/css/main.22e64323.css",
+    "static/js/main.41668983.js"
   ]
 }
