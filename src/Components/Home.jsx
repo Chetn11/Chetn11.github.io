@@ -19,7 +19,7 @@ const handleResumeClick = () => {
 
 const Home = () => {
   return (
-    <div id="home" name="home" className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 ">
+    <div id="home" name="home" className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-800 pb-14">
 
     <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
 
