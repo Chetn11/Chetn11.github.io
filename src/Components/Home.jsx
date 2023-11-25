@@ -8,7 +8,7 @@ import Skills from "./Skills";
 
 const handleResumeClick = () => {
   const link = document.createElement("a");
-  link.download = "Chetan_Resume.pdf";
+  link.download = "Chetan_Patil_Resume.pdf";
   link.href = Resume;
   link.click();
   window.open(

@@ -33,7 +33,7 @@ function NavBar() {
 
   const handleResumeClick = () => {
     const link = document.createElement("a");
-    link.download = "Chetan_Resume.pdf";
+    link.download = "Chetan_Patil_Resume.pdf";
     link.href = "Resume.pdf";
     link.click();
     window.open(
