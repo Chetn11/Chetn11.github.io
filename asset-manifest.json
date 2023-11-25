@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b01a302c.css",
-    "main.js": "/static/js/main.e798cd53.js",
+    "main.js": "/static/js/main.9dc7e9f8.js",
     "static/media/Bewakoof.PNG": "/static/media/Bewakoof.2398cc6ed2d3ce96c9aa.PNG",
     "static/media/Auto_part.PNG": "/static/media/Auto_part.8c3efa3daaaa3444899c.PNG",
     "static/media/sopa.PNG": "/static/media/sopa.3d34e9736c260e9c33e3.PNG",
@@ -17,10 +17,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.b01a302c.css.map": "/static/css/main.b01a302c.css.map",
-    "main.e798cd53.js.map": "/static/js/main.e798cd53.js.map"
+    "main.9dc7e9f8.js.map": "/static/js/main.9dc7e9f8.js.map"
   },
   "entrypoints": [
     "static/css/main.b01a302c.css",
-    "static/js/main.e798cd53.js"
+    "static/js/main.9dc7e9f8.js"
   ]
 }
