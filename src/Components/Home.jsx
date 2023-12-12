@@ -12,7 +12,7 @@ const handleResumeClick = () => {
   link.href = Resume;
   link.click();
   window.open(
-    "https://drive.google.com/file/d/1X6Pj2zDGKnN-0rozzPtWb81wMcSpVBy8/view",
+    "https://drive.google.com/file/d/1OZNtPI-N0zsPCZe2fCxQOogJ4f7UGoRO/view?usp=sharing",
     "_blank"
   );
 };
@@ -25,7 +25,7 @@ const Home = () => {
 
      <div className="flex flex-col justify-center h-full">
 
-      <h2 id="user-detail-name" className="text-4xl sm:text-7xl font-bold text-white">Hey, I'm a Full Stack Developer</h2>
+      <h2 id="user-detail-name" className=" text-4xl sm:text-7xl font-bold text-white ">Hey, I'm a Full Stack Developer</h2>
       <p id="user-detail-intro" className="text-gray-500 py-4 max-w-md">
       An aspiring Full-Stack Web Developer based in India,working on
       frontend and backend Technologies including HTML, CSS, JavaScript,
@@ -39,7 +39,7 @@ const Home = () => {
       </a>
       </div>
      </div>
-     <div className="w-2/3 h-auto ">
+     <div className="w-2/3 ">
       <img src={HeroImage} alt="HeroImage" className="home-img rounded-full mx-auto w-2/4  md:w-full  ring ring-blue-400 hover:ring-blue-600"/>
      </div>
     </div>

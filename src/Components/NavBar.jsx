@@ -37,7 +37,7 @@ function NavBar() {
     link.href = "Resume.pdf";
     link.click();
     window.open(
-      "https://drive.google.com/file/d/1X6Pj2zDGKnN-0rozzPtWb81wMcSpVBy8/view",
+      "https://drive.google.com/file/d/1OZNtPI-N0zsPCZe2fCxQOogJ4f7UGoRO/view?usp=sharing",
       "_blank"
     );
   };
