@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import{FaBars,FaTimes} from "react-icons/fa"
 import { Link } from 'react-scroll';
-// import Resume from "./Resume/Resume.pdf"
+import Resume from "./Resume/Resume.pdf"
 
 
 
@@ -34,7 +34,7 @@ function NavBar() {
   const handleResumeClick = () => {
     const link = document.createElement("a");
     link.download = "Chetan_Patil_Resume.pdf";
-    link.href = "Resume.pdf";
+    link.href = Resume;
     link.click();
     window.open(
       "https://drive.google.com/file/d/1OZNtPI-N0zsPCZe2fCxQOogJ4f7UGoRO/view?usp=sharing",
