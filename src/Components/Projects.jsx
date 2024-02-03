@@ -28,7 +28,7 @@ function Projects() {
                 <img src={bewakoof} alt='' className='rounded-md duration-200 hover:scale-105 w-full h-auto'/>
                 <div className='flex items-center justify-center'>
                     <button className='project-deployed-link w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'
-                    onClick={()=>handelUrl("https://snazzy-bublanina-52c88a.netlify.app/index.html")}
+                    onClick={()=>handelUrl("https://chetn11.github.io/bewakoof-clone/")}
                     >Link</button>
                     <button className='project-github-link w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'
                     onClick={()=>handelUrl("https://github.com/Chetn11/bewakoof-clone")}
