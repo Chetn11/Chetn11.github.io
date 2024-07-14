@@ -3,6 +3,7 @@ import bewakoof from "../assets/projects/Bewakoof.PNG"
 import autoPart from "../assets/projects/Auto_part.PNG"
 import sopa from "../assets/projects/sopa.PNG"
 import stopWatch from "../assets/projects/stopwatch.PNG"
+import movieList from "../assets/projects/Movie List.PNG"
 
 function Projects() {
 
@@ -91,9 +92,30 @@ function Projects() {
                   <li>Jason Server</li>
                 </ul>
             </div>
+{/* project-4 */}
+            <div className='project-card shadow-md shadow-gray-600 rounded-lg duration-200 hover:scale-105 '>
+                <img src={movieList} alt='' className='rounded-md duration-200 hover:scale-105'/>
+                <div className='flex items-center justify-center'>
+                    <button className='project-deployed-link w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'
+                    onClick={()=>handelUrl("https://movie-watchlist-itn2.vercel.app/")}
+                    >Link</button>
+                    <button className=' project-github-link w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105'
+                    onClick={()=>handelUrl("https://github.com/Chetn11/Movie-Watchlist")}
+                    >GitHub</button>
+                </div>
+                <h5 className='project-title pl-4'>Movie List</h5>
+                <p className='project-description  m-auto pl-4 font-thin'>This is Movie list app have functionality like all crud operation, form validation and loading. </p>
+                <p className='project-tech-stack m-auto pl-4 pt-4 font-bolt '>Tech Stacks use :</p>
+                <ul className='m-auto pl-4 font-thin'>
+                  <li>React</li>
+                  <li>Redux</li>
+                  <li>Nodejs and MongoDB</li>
+                  <li>Material Ui</li>
+                  <li>JavaScript</li>
 
-
-        {/* project-4 */}
+                </ul>
+            </div>
+        {/* project-5 */}
 
         <div className='project-card shadow-md shadow-gray-600 rounded-lg duration-200 hover:scale-105 '>
                 <img src={stopWatch} alt='' className='rounded-md duration-200 hover:scale-105'/>
